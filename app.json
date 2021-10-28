@@ -1,0 +1,7 @@
+{
+  "name": "ALAN BOT",
+  "description": "whatsapp bot build with nodejs",
+  "repository": "https://github.com/justpiple/whatsapp-bot",
+  "logo": "https://telegra.ph/file/b12df589bd2fa9c916d8a.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
+}

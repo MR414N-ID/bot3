@@ -1,0 +1,13 @@
+{	
+	"prefix": "multi", 
+	"defaultSessionName": "kurrxd", 
+	"zeksKey": "CpGSLymOQy9KfTKgQZr9eDSYqqR",
+	"autoRead": true,
+	"self": false, 
+	"maxLimit": 300,
+	"ownerList": ["6282292838634@s.whatsapp.net"],
+	"apiUrl": "https://api.zeks.me",
+    "imgUrl": "https://telegra.ph/file/b12df589bd2fa9c916d8a.jpg",
+	"pack": "KurrGamtenk",
+	"author": "<3"
+}
